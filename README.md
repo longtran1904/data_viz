@@ -1,5 +1,7 @@
 # Centralized Data Visualization Tool
 
+A tool to organize my data visualization scripts for my Research 🤓
+
 This repository provides a centralized interface for generating data visualizations using predefined scripts. The main entry point is `main_viz_tool.py`, which allows users to run various visualization scripts.
 
 ## Prerequisites
