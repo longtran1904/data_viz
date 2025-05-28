@@ -1,0 +1,47 @@
+nice: cannot set niceness: Permission denied
+PRO TIP 💡 Replace 'model=yolov5s.pt' with new 'model=yolov5su.pt'.
+YOLOv5 'u' models are trained with https://github.com/ultralytics/ultralytics and feature improved performance vs standard YOLOv5 models trained with https://github.com/ultralytics/yolov5.
+
+global model 0x7f0a612062c0
+global model size 0.00 MB
+Starting 8 threads for inference...
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_1.txt
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_2.txt
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_3.txt
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_4.txt
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_5.txt
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_6.txt
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_7.txt
+forking process...
+writing logs to /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8/part_8.txt
+Logs saved for each process separately.
+	Command being timed: "python3 threaded_inference.py --num_threads 8 --batch_size 1 --log_folder /local/sk2113/ioopt/results/HOTINFRA-MEMFRAC-GPU/WILDFIRE//ROCKSDB/8WORKERS/10M-KEYS/8/batchsize-1/CONTAINER/TRIAL-PAPER/YOLO-MEM-8-ROCKSDB-MEM-24/inference/isolated-yolo-inference/num_threads_8"
+	User time (seconds): 2213.95
+	System time (seconds): 42.79
+	Percent of CPU this job got: 752%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:59.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1357220
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4428
+	Minor (reclaiming a frame) page faults: 10513906
+	Voluntary context switches: 62455
+	Involuntary context switches: 7259
+	Swaps: 0
+	File system inputs: 2192016
+	File system outputs: 13208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

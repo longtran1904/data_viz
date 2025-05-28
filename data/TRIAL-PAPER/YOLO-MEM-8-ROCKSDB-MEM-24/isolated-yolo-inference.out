@@ -1,0 +1,4 @@
+[512888.742832] sh (1549543): drop_caches: 3
+[512889.216295] sh (1549543): drop_caches: 3
+[512945.207351] nfs: Deprecated parameter 'intr'
+[512945.221334] nfs: Deprecated parameter 'intr'
